@@ -12,6 +12,15 @@ html body {
   margin: 0;
 }
 
+
+    a {
+        color:white;
+        text-decoration: none;
+    }
+
+
+
+
 Body {
   display: block;
   position: relative;
