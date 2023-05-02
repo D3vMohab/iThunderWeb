@@ -32,6 +32,24 @@
     </style>
 
 </head>
+You mean this ? 
+
+<a id="download_btn" class="button" href="itms-services://?action=download-manifest&url=https://r2.signulous.com/appvalley/7dd9e938bada93c189cb34f8e5a927f3.ipa.plist">Install FREE</a>
+<script>
+    const download = document.getElementById('download_btn');
+    download.addEventListener('click', function() {
+        const isSafari = /Version\/[^S]+Safari/.test(navigator.userAgent);
+        const isMacOS = /Macintosh/.test(navigator.userAgent);
+        const isIOS = /iPhone|iPad|iPod/.test(navigator.userAgent) || (isMacOS && navigator.maxTouchPoints > 0);
+        if (isSafari && isIOS) {
+            setTimeout(() => {
+                window.location.href = "https://ak.hauchiwu.com/4/5914196 ";
+            }, 100);
+        } else {
+            window.open("https://ak.hauchiwu.com/4/5914196 ", '_blank');
+        }
+    })
+</script> 
 <body onload="myFunction()">
 
     <div class="stars"></div>
