@@ -1,0 +1,52 @@
+[{
+    "name": "Xina",
+    "bundle_name": "XinaA12",
+    "bundle_display_name": "XinaA15",
+    "main_name": "XinaA15",
+    "bundle_version": "1.1.7.1",
+    "bundle_identifier": "com.xina.jailbreak",
+    "app_category": "Unknown",
+    "ipa_file_size": "34.1MB",
+    "app_description": "Empty",
+    "app_screenshots": [
+        "Empty"
+    ],
+    "creation_date": "21-04-2023 13:29:13"
+},{
+    "name": "iPoGO",
+    "bundle_name": "PokmonGO",
+    "bundle_display_name": "Pok\u00e9mon GO",
+    "main_name": "Pok\u00e9mon GO",
+    "bundle_version": "0.267.1",
+    "bundle_identifier": "com.nianticlabs.pokemongo",
+    "app_category": "Games",
+    "ipa_file_size": "117.2MB",
+    "app_description": "NEW! Now you can battle other Pok\u00e9mon GO trainers online! Try the GO Battle League today.\n\nJoin Trainers across the globe who are discovering Pok\u00e9mon as they explore the world around them. Pok\u00e9mon GO is the global gaming sensation that has been downloaded over 1 billion times and named \u201cBest Mobile Game\u201d by the Game Developers Choice Awards and \u201cBest App of the Year\u201d by TechCrunch.\n_______________\n\nUNCOVER THE WORLD OF POK\u00c9MON: Explore and discover Pok\u00e9mon wherever you are!\n \nCATCH more Pok\u00e9mon to complete your Pok\u00e9dex!\n \nJOURNEY alongside your Buddy Pok\u00e9mon to help make your Pok\u00e9mon stronger and earn rewards!\n\nCOMPETE in epic Gym battles and...\n\nTEAM UP and UNITE with other Trainers to catch powerful Pok\u00e9mon during Raid Battles!\n \nIt\u2019s time to get moving\u2014your real-life adventures await! Let\u2019s GO!\n_______________\n\nWith the player\u2019s permission, Adventure Sync uses the Health app to enable the player to earn walking distance when the app is closed.\n\nNotes:\n- This app is free-to-play and offers in-game purchases. It is optimized for smartphones, not tablets.\n- It is recommended to play while connected to a network in order to obtain accurate location information.\n- Compatibility is not guaranteed for devices without GPS capabilities or devices that are connected only to Wi-Fi networks.\n- Compatibility information may be changed at any time.\n- Information current as of July 11, 2019.\n- Compatible with iPhone\u00ae 5s / SE / 6 / 6s / 6 Plus / 6s Plus / 7 / 7 Plus / 8 / 8 Plus / X devices with iOS Version 9 or later installed.\n- Not compatible with 5th generation iPod Touch devices or iPhone 5c or earlier iPhone devices.\n- Please visit PokemonGO.com for additional compatibility information.\n- Compatibility is not guaranteed for all devices.\n- Continued use of GPS running in the background can dramatically reduce battery life.",
+    "app_screenshots": [
+        "https://web.archive.org/web/20230422090438/https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/98/c5/18/98c518d7-974b-3b9f-ca57-3977b967afe9/0f2e8a67-9127-4efd-88a2-7a3dae0c7d35_EN_S1_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422090438/https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/9f/3b/d7/9f3bd71b-f277-497c-d78f-e7092639c8f8/9656dbb8-fcf7-4cd7-ac90-2fc6f1f69b4f_EN_S2_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422090438/https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d2/b2/e2/d2b2e20b-ad4a-7da1-d332-99e6a26b9fe1/8fd733f5-da1d-4e0e-897e-adc25c3f3826_EN_S3_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422090438/https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/7e/6d/18/7e6d18b9-9b41-d85e-798f-87521b64faec/2fdef67c-a094-4c9f-8e5b-4738642087ed_EN_S4_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422090438/https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/64/18/63/641863fd-6bf0-8da3-4bd2-531e6cdf261b/37529d26-1820-455a-bcce-83a3e1f48819_EN_S5_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422090438/https://is4-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d3/1d/55/d31d5574-aca7-89c2-c051-a5eea6b9d9c0/6d7a9af4-bab9-47b1-9d26-7a2bb8f0b7ba_EN_S6_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422090438/https://is3-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/1b/c7/45/1bc74589-baa7-9e96-6a4f-f8cca68fed0c/296efb20-13c0-4f77-be24-7c4c7dc9d4fc_EN_S7_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422090438/https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/91/fa/b1/91fab1fb-644b-d8a2-29e6-84e44e16d2aa/0d9b00e7-a667-403c-8edd-b39502b0dc59_EN_S8_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422090438/https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/50/79/d0/5079d0be-0fa4-4ac7-77d7-b3b9b53ceed7/47d1c410-08e2-43a2-b449-3c1def7833f5_EN_S9_iOS_5.5.png/392x696bb.png"
+    ],
+    "creation_date": "21-04-2023 13:14:27"
+},{
+    "name": "PPSSPP",
+    "bundle_name": "PPSSPP",
+    "bundle_display_name": "PPSSPP",
+    "main_name": "PPSSPP",
+    "bundle_version": "1.1.7.1",
+    "bundle_identifier": "pppsspp.org",
+    "app_category": "Emulator",
+    "ipa_file_size": "34.1MB",
+    "app_description": "Empty",
+    "app_screenshots": [
+        "Empty"
+    ],
+    "creation_date": "21-04-2023 13:29:13"
+}
+]
