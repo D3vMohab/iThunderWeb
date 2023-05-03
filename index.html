@@ -30,15 +30,7 @@
 
 <body>
 
-     <script>
-var userLang = navigator.language ;
-          alert (userLang);
-if (userLang == "ru") {
-document.getElementById("download").innerHTML = "Скачать";
-} else {
-document.getElementById("download").innerHTML = "Download";
-}
-</script>
+
 
      
     <div class="stars"></div>
@@ -58,7 +50,14 @@ document.getElementById("download").innerHTML = "Download";
 
     </center>
 
-
+     <script>
+var userLang = navigator.language ;
+if (userLang == "ru") {
+document.getElementById("download").innerHTML = "Скачать";
+} else {
+document.getElementById("download").innerHTML = "Download";
+}
+</script>
 
 
 
