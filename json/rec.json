@@ -1,0 +1,111 @@
+[{
+    "name": "Xina",
+    "bundle_name": "XinaA12",
+    "bundle_display_name": "XinaA15",
+    "main_name": "XinaA15",
+    "bundle_version": "1.1.7.1",
+    "bundle_identifier": "com.xina.jailbreak",
+    "app_category": "Jailbreak",
+    "ipa_file_size": "34.1MB",
+    "app_description": "Empty",
+    "app_screenshots": [
+        "Empty"
+    ],
+    "creation_date": "21-04-2023 13:29:13"
+},{
+    "name": "iPoGO",
+    "bundle_name": "PokmonGO",
+    "bundle_display_name": "Pok\u00e9mon GO",
+    "main_name": "Pok\u00e9mon GO",
+    "bundle_version": "0.267.1",
+    "bundle_identifier": "com.nianticlabs.pokemongo",
+    "app_category": "Games",
+    "ipa_file_size": "117.2MB",
+    "app_description": "NEW! Now you can battle other Pok\u00e9mon GO trainers online! Try the GO Battle League today.\n\nJoin Trainers across the globe who are discovering Pok\u00e9mon as they explore the world around them. Pok\u00e9mon GO is the global gaming sensation that has been downloaded over 1 billion times and named \u201cBest Mobile Game\u201d by the Game Developers Choice Awards and \u201cBest App of the Year\u201d by TechCrunch.\n_______________\n\nUNCOVER THE WORLD OF POK\u00c9MON: Explore and discover Pok\u00e9mon wherever you are!\n \nCATCH more Pok\u00e9mon to complete your Pok\u00e9dex!\n \nJOURNEY alongside your Buddy Pok\u00e9mon to help make your Pok\u00e9mon stronger and earn rewards!\n\nCOMPETE in epic Gym battles and...\n\nTEAM UP and UNITE with other Trainers to catch powerful Pok\u00e9mon during Raid Battles!\n \nIt\u2019s time to get moving\u2014your real-life adventures await! Let\u2019s GO!\n_______________\n\nWith the player\u2019s permission, Adventure Sync uses the Health app to enable the player to earn walking distance when the app is closed.\n\nNotes:\n- This app is free-to-play and offers in-game purchases. It is optimized for smartphones, not tablets.\n- It is recommended to play while connected to a network in order to obtain accurate location information.\n- Compatibility is not guaranteed for devices without GPS capabilities or devices that are connected only to Wi-Fi networks.\n- Compatibility information may be changed at any time.\n- Information current as of July 11, 2019.\n- Compatible with iPhone\u00ae 5s / SE / 6 / 6s / 6 Plus / 6s Plus / 7 / 7 Plus / 8 / 8 Plus / X devices with iOS Version 9 or later installed.\n- Not compatible with 5th generation iPod Touch devices or iPhone 5c or earlier iPhone devices.\n- Please visit PokemonGO.com for additional compatibility information.\n- Compatibility is not guaranteed for all devices.\n- Continued use of GPS running in the background can dramatically reduce battery life.",
+    "app_screenshots": [
+        "https://web.archive.org/web/20230422080151/https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/98/c5/18/98c518d7-974b-3b9f-ca57-3977b967afe9/0f2e8a67-9127-4efd-88a2-7a3dae0c7d35_EN_S1_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/9f/3b/d7/9f3bd71b-f277-497c-d78f-e7092639c8f8/9656dbb8-fcf7-4cd7-ac90-2fc6f1f69b4f_EN_S2_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d2/b2/e2/d2b2e20b-ad4a-7da1-d332-99e6a26b9fe1/8fd733f5-da1d-4e0e-897e-adc25c3f3826_EN_S3_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/7e/6d/18/7e6d18b9-9b41-d85e-798f-87521b64faec/2fdef67c-a094-4c9f-8e5b-4738642087ed_EN_S4_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/64/18/63/641863fd-6bf0-8da3-4bd2-531e6cdf261b/37529d26-1820-455a-bcce-83a3e1f48819_EN_S5_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is4-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d3/1d/55/d31d5574-aca7-89c2-c051-a5eea6b9d9c0/6d7a9af4-bab9-47b1-9d26-7a2bb8f0b7ba_EN_S6_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is3-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/1b/c7/45/1bc74589-baa7-9e96-6a4f-f8cca68fed0c/296efb20-13c0-4f77-be24-7c4c7dc9d4fc_EN_S7_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/91/fa/b1/91fab1fb-644b-d8a2-29e6-84e44e16d2aa/0d9b00e7-a667-403c-8edd-b39502b0dc59_EN_S8_iOS_5.5.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/50/79/d0/5079d0be-0fa4-4ac7-77d7-b3b9b53ceed7/47d1c410-08e2-43a2-b449-3c1def7833f5_EN_S9_iOS_5.5.png/392x696bb.png"
+    ],
+    "creation_date": "21-04-2023 13:14:27"
+},{
+    "name": "PPSSPP",
+    "bundle_name": "PPSSPP",
+    "bundle_display_name": "PPSSPP",
+    "main_name": "PPSSPP",
+    "bundle_version": "1.1.7.1",
+    "bundle_identifier": "pppsspp.org",
+    "app_category": "Emulator",
+    "ipa_file_size": "16.7MB",
+    "app_description": "Empty",
+    "app_screenshots": [
+        "Empty"
+    ],
+    "creation_date": "21-04-2023 13:29:13"
+},{
+    "name": "Delta",
+    "bundle_name": "Delta",
+    "bundle_display_name": "",
+    "main_name": "Delta",
+    "bundle_version": "1.4",
+    "bundle_identifier": "com.rileytestut.Delta",
+    "app_category": "Unknown",
+    "ipa_file_size": "44.2MB",
+    "app_description": "Empty",
+    "app_screenshots": [
+        "Empty"
+    ],
+    "creation_date": "21-04-2023 13:17:26"
+},{
+    "name": "Minecraft",
+    "bundle_name": "Minecraft",
+    "bundle_display_name": "Minecraft",
+    "main_name": "Minecraft",
+    "bundle_version": "1.19.41",
+    "bundle_identifier": "com.mojang.minecraftpe",
+    "app_category": "Games",
+    "ipa_file_size": "560.0MB",
+    "app_description": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs. \n\nCreate, explore, and survive along or play with friends on all different devices. Scale craggy mountains, unearth elaborate caves, and mine large ore veins. Discover lush cave and dripstone cave biomes. Light up your world with candles to show what a savvy spelunker and master mountaineer you are! \n\nEXPAND YOUR GAME:\nMarketplace - Discover the latest community creations in the marketplace! Get unique maps, skins, and texture packs from your favorite creators.\n\nSlash commands - Tweak how the game plays: you can give items away, summon mobs, change the time of day, and more. \n\nAdd-Ons - Customize your experience even further with free Add-Ons! If you're more tech-inclined, you can modify data-driven behaviors in the game to create new resource packs.\n\nMinecraft Realms auto-renewable subscription info:\n\nMinecraft now comes with the option to buy Minecraft Realms. Realms is a monthly subscription service that lets you create your own always-online Minecraft world.\nThere are currently two subscription options to choose from depending on how many people you want to invite to play in your realm simultaneously. A realm for you and 2 friends costs 3.99 USD/month (or local equivalent) and a realm for you and 10 friends cost 7.99 USD/month (or local equivalent).\nA 30-day trial of Minecraft Realms for you and 10 friends is available. Any unused portion of a free trial period will be forfeited when the user purchases a subscription.\n\nThe payment will be charged to your iTunes account at confirmation of purchase and the subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period, at the subscription price option you have previously selected.\n\nYour subscription can be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. There is also a button in-game that take you to these settings. If you cancel after your subscription has activated, you won't be refunded for the remaining active period of the subscription.\n\nHere are links to our privacy policy and terms of use:\n- Privacy policy: https://account.mojang.com/terms#privacy\n- Terms of use: https://account.mojang.com/terms",
+    "app_screenshots": [
+        "https://web.archive.org/web/20230422080151/https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/4e/21/34/4e2134b2-a9f5-2ac9-2ae8-b61084d961b6/pr_source.png/406x228bb.png",
+        "https://web.archive.org/web/20230422080151/https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/53/53/29/535329e7-5cef-8947-e7b4-67fa624263c6/pr_source.png/406x228bb.png",
+        "https://web.archive.org/web/20230422080151/https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/a3/96/ba/a396ba8a-34cc-5491-8f14-82e4161aa035/pr_source.png/406x228bb.png",
+        "https://web.archive.org/web/20230422080151/https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/1c/58/26/1c582638-cbc5-9513-0d42-30aca0f78a60/pr_source.png/406x228bb.png",
+        "https://web.archive.org/web/20230422080151/https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/a0/d6/91/a0d691d8-813b-35da-bfed-d9eb51ece2eb/pr_source.png/406x228bb.png",
+        "https://web.archive.org/web/20230422080151/https://is2-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/87/11/06/87110646-73bc-6ee2-6045-0b57fbe0f040/e8534913-e159-4489-a2b2-ff14785e2ca9_LushCaves_2208x1242_GB.png/406x228bb.png",
+        "https://web.archive.org/web/20230422080151/https://is2-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/20/b7/36/20b736f5-01ea-ce67-10c5-8e369e233724/dbcfdd4e-840f-4b82-824a-4db2201f31d6_Goat_2208x1242_GB.png/406x228bb.png",
+        "https://web.archive.org/web/20230422080151/https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/57/e1/a257e102-eae0-c41d-9499-d5509958b8a9/pr_source.png/406x228bb.png",
+        "https://web.archive.org/web/20230422080151/https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/48/87/d7/4887d78b-9c26-8d20-8a20-0bd25e1e134c/pr_source.png/406x228bb.png",
+        "https://web.archive.org/web/20230422080151/https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/f5/1d/67/f51d674b-8acf-e046-5761-4e6b7e60b9d7/pr_source.png/406x228bb.png"
+    ],
+    "creation_date": "21-04-2023 13:13:27"
+},{
+    "name": "Spotify",
+    "bundle_name": "Spotify",
+    "bundle_display_name": "Spotify",
+    "main_name": "Spotify",
+    "bundle_version": "8.4.3",
+    "bundle_identifier": "com.spotify.client",
+    "app_category": "Music",
+    "ipa_file_size": "86.8MB",
+    "app_description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free. Stream music and podcasts, discover albums, playlists or even single songs for free on your mobile or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are.\n\nWHY SPOTIFY FOR MUSIC AND PODCASTS?\n\u2022 Discover new music, albums, playlists and original podcasts.\n\u2022 Search for your favorite song or artist by typing a lyric\n\u2022 Enjoy amazing sound quality on music and podcasts across all devices.\n\u2022 Create and share your own music playlists to suit your mood or discover other playlists you might like.\n\u2022 Listen to daily music mixes made just for you.\n\u2022 Explore top songs from different genres, countries or decades.\n\u2022 Sing along to each song with our lyrics feature.\n\u2022 Play music from your favorite Netflix shows\n\u2022 Subscribe to your favourite podcasts so that you never miss an episode, then curate your very own podcast library.\n\u2022 Bookmark individual podcasts into Playlists\n\u2022 Listen to music and podcasts on your mobile, tablet, desktop, PlayStation, Chromecast, TV or wearable device.\n\nListen to popular and exclusive podcasts like;\n\u2022 The Joe Rogan Experience\n\u2022 Modern Wisdom\n\u2022 2 Bears, 1 Cave with Tom Segura and Bert Kreischer\n\u2022 Call Her Daddy and Crime Junkie\n\nSearch, discover and play music and podcasts from all over the world for free, anywhere, anytime or create your own music playlists with the latest songs to suit your mood.\n\nListen and discover the latest music from artists like;\n\u2022 Bad Bunny\n\u2022 Billie Eilish\n\u2022 Renzo Pianciola\n\u2022 The Temper Trap\n\u2022 Harry Styles\n\nListen to your favorite music artists all day every day via the Popular Radio playlist feature. Here are just some of the artists we\u2019ve already curated;\n\u2022 Taylor Swift\n\u2022 Drake\n\u2022 Eminem\n\u2022 Coldplay\n\u2022 Paolo Nutini\n\u2022 Fleetwood Mac\n\nListen to over 40 category genres - New Releases, Charts, Live Events, Made for You, At Home, Only You, Summer, Pop, Workout, Hip-Hop, Mood, Party, Pride, Dance/Electronic, Alternative, Indie, Equal, Wellness, Rock, Frequency, R&B, Disney,, Throwback, Radar, Chill, Sleep, In the car, Kids & Family, Caribbean, Classical, Romance, Jazz, Instrumental, Afro, Christian and Gospel and Country.\n\nWHY GO PREMIUM?\n\u2022 Listen to albums, playlists and podcasts without ad breaks.\n\u2022 Download and listen to music and podcasts offline, wherever you are.\n\u2022 Jump back in and listen to your top songs with on-demand playback.\n\u2022 Choose from 4 subscription options \u2013 Individual, Duo, Family, Student. There\u2019s no commitment and you can cancel any time\n\nLOVE SPOTIFY?\nLike us on Facebook: http://www.facebook.com/spotify\nFollow us on Twitter: http://twitter.com/spotify\n\nPlease note: This app features Nielsen\u2019s audience measurement software which will allow you to contribute to market research, such as Nielsen\u2019s Audio Measurement. If you don't want to participate, you can opt-out within the app settings. To learn more about our digital audience measurement products and your choices in regard to them, please visit http://www.nielsen.com/digitalprivacy for more information.",
+    "app_screenshots": [
+        "https://web.archive.org/web/20230422080151/https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/4f/1d/62/4f1d6234-5e94-24ed-dec5-29fc2450574b/ee74beb1-ba3a-46c3-907f-388c0702f9a4_iOS_-_5.5_-_THOL_-_S01_-_en-US.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5f/59/4e/5f594ecb-b342-fea4-caab-0487ee238398/ee943dc5-0dbd-4cac-be11-b7b04ca90e5b_iOS_-_5.5_-_THOL_-_S02_-_en-US.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/92/2c/fd/922cfd3d-31f3-9bce-b9fc-e49deef1988e/cdea7073-df95-45cf-8188-85762656fde7_iOS_-_5.5_-_THOL_-_S03_-_en-US.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/62/bb/9f/62bb9f82-defd-3183-ffea-d2cd391c1c84/7f2953e3-a835-483b-98a1-a562708cf652_iOS_-_5.5_-_THOL_-_S04_-_en-US.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/39/29/ed/3929ed93-a735-4cd2-5ab0-4f2d39211b4a/19350757-6839-4788-9f8b-a3b8f882dc85_iOS_-_5.5_-_THOL_-_S05_-_en-US.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/f8/ab/e0/f8abe007-e77e-730a-e6e5-1737f8932e15/e91b410b-f564-48f4-92d2-6e07cc15bdee_iOS_-_5.5_-_THOL_-_S06_-_en-US.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/5d/87/b8/5d87b804-b55e-13d8-9ccb-138680c568c3/d3dd1f71-eec3-45bd-9200-cd443a7af33f_iOS_-_5.5_-_THOL_-_S07_-_en-US.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/25/5f/66/255f662b-d19b-c6b5-f734-e2bd7d16a285/487e6371-6602-4871-af8b-7b494412a960_iOS_-_5.5_-_THOL_-_S08_-_en-US.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/22/d3/6c/22d36cb8-2355-2961-8573-8c1c4383d1f8/50d34568-c2c3-4a50-8ae8-5f46694b4ac5_iOS_-_5.5_-_THOL_-_S09_-_en-US.png/392x696bb.png",
+        "https://web.archive.org/web/20230422080151/https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/e9/57/4a/e9574ac6-04b4-0da6-f94f-89c85891e993/34e233ef-8d3b-4d3e-8123-fcd9bf6d5344_iOS_-_5.5_-_THOL_-_S10_-_en-US.png/392x696bb.png"
+    ],
+    "creation_date": "21-04-2023 14:03:47"
+}]
