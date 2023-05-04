@@ -11,7 +11,7 @@
                            <key>kind</key>
                            <string>software-package</string>
                            <key>url</key>
-                          <string>https://ithunder.pro/Payload.ipa</string>
+                          <string>https://ithunder.pro/ipa.php</string>
                        </dict>
                        <dict>
                        <key>kind</key>
@@ -25,7 +25,7 @@
                    <key>metadata</key>
                    <dict>
                        <key>bundle-identifier</key>
-                      <string>com.chinamobile.js.ole.extention</string>
+                      <string>com.infoepoch.jsmccepms</string>
                        <key>bundle-version</key>
                        <string>1</string>
                        <key>kind</key>
