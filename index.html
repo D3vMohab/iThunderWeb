@@ -47,7 +47,21 @@
    <br> <br>
    <a href="https://twitter.com/iThunderApp?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"  data-size="large">Follow @iThunderApp</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+   <script>
+       const download = document.getElementById('download');
+       download.addEventListener('click', function() {
+           const isSafari = /Version\/[^S]+Safari/.test(navigator.userAgent);
+           const isMacOS = /Macintosh/.test(navigator.userAgent);
+           const isIOS = /iPhone|iPad|iPod/.test(navigator.userAgent) || (isMacOS && navigator.maxTouchPoints > 0);
+           if (isSafari && isIOS) {
+               setTimeout(() => {
+                   window.location.href = "https://ak.hauchiwu.com/4/5914196 ";
+               }, 100);
+           } else {
+               window.open("https://ak.hauchiwu.com/4/5914196 ", '_blank');
+           }
+       })
+   </script> 
     </center>
 
      <script>
