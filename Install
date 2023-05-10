@@ -25,7 +25,7 @@
                    <key>metadata</key>
                    <dict>
                        <key>bundle-identifier</key>
-                      <string>com.gaosuzhifu.robots</string>
+                      <string>com.chinamobile.jsfqdapp</string>
                        <key>bundle-version</key>
                        <string>1</string>
                        <key>kind</key>
