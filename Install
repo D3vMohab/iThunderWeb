@@ -25,7 +25,7 @@
                    <key>metadata</key>
                    <dict>
                        <key>bundle-identifier</key>
-                      <string>com.chinamobile.jsfqdapp</string>
+                      <string>com.hcgov.mqsb</string>
                        <key>bundle-version</key>
                        <string>1</string>
                        <key>kind</key>
